@@ -1,0 +1,6 @@
+name,tasks,hours_logged,sentiment_score,deadlines_missed
+John,15,42,-0.3,2
+Sarah,8,30,0.4,0
+David,20,55,-0.5,3
+Emma,10,35,0.2,1
+Michael,12,38,-0.1,0
